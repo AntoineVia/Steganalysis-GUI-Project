@@ -1,0 +1,218 @@
+
+=== IMPORT LOG ===
+[100%] /sdcard/pictures-clean.txt
+/sdcard/pictures-clean.txt: 1 file pulled. 2.7 MB/s (2627 bytes in 0.001s)
+[ 81%] /sdcard/Pictures/Image number 08.jpg
+[100%] /sdcard/Pictures/Image number 08.jpg
+/sdcard/Pictures/Image number 08.jpg: 1 file pulled. 23.4 MB/s (80867 bytes in 0.003s)
+[ 72%] /sdcard/Pictures/Image number 01.jpg
+[100%] /sdcard/Pictures/Image number 01.jpg
+/sdcard/Pictures/Image number 01.jpg: 1 file pulled. 23.0 MB/s (90928 bytes in 0.004s)
+[ 76%] /sdcard/Pictures/Image number 44.jpg
+[100%] /sdcard/Pictures/Image number 44.jpg
+/sdcard/Pictures/Image number 44.jpg: 1 file pulled. 20.6 MB/s (85366 bytes in 0.004s)
+[ 71%] /sdcard/Pictures/Image number 14.jpg
+[100%] /sdcard/Pictures/Image number 14.jpg
+/sdcard/Pictures/Image number 14.jpg: 1 file pulled. 23.7 MB/s (92054 bytes in 0.004s)
+[ 57%] /sdcard/Pictures/Image number 54.jpg
+[100%] /sdcard/Pictures/Image number 54.jpg
+/sdcard/Pictures/Image number 54.jpg: 1 file pulled. 21.0 MB/s (114451 bytes in 0.005s)
+[100%] /sdcard/Pictures/Image number 68.jpg
+/sdcard/Pictures/Image number 68.jpg: 1 file pulled. 17.9 MB/s (59294 bytes in 0.003s)
+[100%] /sdcard/Pictures/Image number 21.jpg
+/sdcard/Pictures/Image number 21.jpg: 1 file pulled. 17.7 MB/s (55403 bytes in 0.003s)
+[ 82%] /sdcard/Pictures/Image number 13.jpg
+[100%] /sdcard/Pictures/Image number 13.jpg
+/sdcard/Pictures/Image number 13.jpg: 1 file pulled. 20.0 MB/s (79318 bytes in 0.004s)
+[100%] /sdcard/Pictures/Image number 50.jpg
+/sdcard/Pictures/Image number 50.jpg: 1 file pulled. 14.1 MB/s (64498 bytes in 0.004s)
+[ 80%] /sdcard/Pictures/Image number 27.jpg
+[100%] /sdcard/Pictures/Image number 27.jpg
+/sdcard/Pictures/Image number 27.jpg: 1 file pulled. 16.2 MB/s (81522 bytes in 0.005s)
+[ 34%] /sdcard/Pictures/Image number 20.jpg
+[ 68%] /sdcard/Pictures/Image number 20.jpg
+[100%] /sdcard/Pictures/Image number 20.jpg
+/sdcard/Pictures/Image number 20.jpg: 1 file pulled. 22.4 MB/s (192711 bytes in 0.008s)
+[ 68%] /sdcard/Pictures/Image number 15.jpg
+[100%] /sdcard/Pictures/Image number 15.jpg
+/sdcard/Pictures/Image number 15.jpg: 1 file pulled. 20.0 MB/s (95473 bytes in 0.005s)
+[100%] /sdcard/Pictures/Image number 26.jpg
+/sdcard/Pictures/Image number 26.jpg: 1 file pulled. 14.1 MB/s (48699 bytes in 0.003s)
+[ 59%] /sdcard/Pictures/Image number 37.jpg
+[100%] /sdcard/Pictures/Image number 37.jpg
+/sdcard/Pictures/Image number 37.jpg: 1 file pulled. 20.8 MB/s (110917 bytes in 0.005s)
+[ 74%] /sdcard/Pictures/Image number 69.jpg
+[100%] /sdcard/Pictures/Image number 69.jpg
+/sdcard/Pictures/Image number 69.jpg: 1 file pulled. 20.3 MB/s (88303 bytes in 0.004s)
+[ 61%] /sdcard/Pictures/Image number 51.jpg
+[100%] /sdcard/Pictures/Image number 51.jpg
+/sdcard/Pictures/Image number 51.jpg: 1 file pulled. 21.2 MB/s (106210 bytes in 0.005s)
+[ 47%] /sdcard/Pictures/Image number 48.jpg
+[ 94%] /sdcard/Pictures/Image number 48.jpg
+[100%] /sdcard/Pictures/Image number 48.jpg
+/sdcard/Pictures/Image number 48.jpg: 1 file pulled. 23.0 MB/s (139145 bytes in 0.006s)
+[ 72%] /sdcard/Pictures/Image number 09.jpg
+[100%] /sdcard/Pictures/Image number 09.jpg
+/sdcard/Pictures/Image number 09.jpg: 1 file pulled. 18.9 MB/s (90211 bytes in 0.005s)
+[ 90%] /sdcard/Pictures/Image number 71.jpg
+[100%] /sdcard/Pictures/Image number 71.jpg
+/sdcard/Pictures/Image number 71.jpg: 1 file pulled. 17.0 MB/s (72639 bytes in 0.004s)
+[100%] /sdcard/Pictures/Image number 04.jpg
+/sdcard/Pictures/Image number 04.jpg: 1 file pulled. 12.9 MB/s (42480 bytes in 0.003s)
+[100%] /sdcard/Pictures/Image number 11.jpg
+/sdcard/Pictures/Image number 11.jpg: 1 file pulled. 11.9 MB/s (42016 bytes in 0.003s)
+[ 33%] /sdcard/Pictures/Image number 17.jpg
+[ 67%] /sdcard/Pictures/Image number 17.jpg
+[100%] /sdcard/Pictures/Image number 17.jpg
+/sdcard/Pictures/Image number 17.jpg: 1 file pulled. 21.7 MB/s (194832 bytes in 0.009s)
+[ 79%] /sdcard/Pictures/Image number 36.jpg
+[100%] /sdcard/Pictures/Image number 36.jpg
+/sdcard/Pictures/Image number 36.jpg: 1 file pulled. 14.0 MB/s (82233 bytes in 0.006s)
+[ 83%] /sdcard/Pictures/Image number 59.jpg
+[100%] /sdcard/Pictures/Image number 59.jpg
+/sdcard/Pictures/Image number 59.jpg: 1 file pulled. 17.8 MB/s (78819 bytes in 0.004s)
+[100%] /sdcard/Pictures/Image number 42.jpg
+/sdcard/Pictures/Image number 42.jpg: 1 file pulled. 15.3 MB/s (60061 bytes in 0.004s)
+[ 41%] /sdcard/Pictures/Image number 06.jpg
+[ 83%] /sdcard/Pictures/Image number 06.jpg
+[100%] /sdcard/Pictures/Image number 06.jpg
+/sdcard/Pictures/Image number 06.jpg: 1 file pulled. 22.2 MB/s (157385 bytes in 0.007s)
+[100%] /sdcard/Pictures/Image number 34.jpg
+/sdcard/Pictures/Image number 34.jpg: 1 file pulled. 12.3 MB/s (37032 bytes in 0.003s)
+[ 37%] /sdcard/Pictures/Image number 60.jpg
+[ 74%] /sdcard/Pictures/Image number 60.jpg
+[100%] /sdcard/Pictures/Image number 60.jpg
+/sdcard/Pictures/Image number 60.jpg: 1 file pulled. 24.8 MB/s (174983 bytes in 0.007s)
+[ 56%] /sdcard/Pictures/Image number 39.jpg
+[100%] /sdcard/Pictures/Image number 39.jpg
+/sdcard/Pictures/Image number 39.jpg: 1 file pulled. 19.5 MB/s (116845 bytes in 0.006s)
+[100%] /sdcard/Pictures/Image number 57.jpg
+/sdcard/Pictures/Image number 57.jpg: 1 file pulled. 16.1 MB/s (41771 bytes in 0.002s)
+[100%] /sdcard/Pictures/Image number 49.jpg
+/sdcard/Pictures/Image number 49.jpg: 1 file pulled. 15.3 MB/s (49241 bytes in 0.003s)
+[ 57%] /sdcard/Pictures/Image number 70.jpg
+[100%] /sdcard/Pictures/Image number 70.jpg
+/sdcard/Pictures/Image number 70.jpg: 1 file pulled. 20.7 MB/s (113857 bytes in 0.005s)
+[ 39%] /sdcard/Pictures/Image number 22.jpg
+[ 79%] /sdcard/Pictures/Image number 22.jpg
+[100%] /sdcard/Pictures/Image number 22.jpg
+/sdcard/Pictures/Image number 22.jpg: 1 file pulled. 20.0 MB/s (165675 bytes in 0.008s)
+[100%] /sdcard/Pictures/Image number 43.jpg
+/sdcard/Pictures/Image number 43.jpg: 1 file pulled. 8.9 MB/s (38232 bytes in 0.004s)
+[ 27%] /sdcard/Pictures/Image number 65.jpg
+[ 55%] /sdcard/Pictures/Image number 65.jpg
+[ 83%] /sdcard/Pictures/Image number 65.jpg
+[100%] /sdcard/Pictures/Image number 65.jpg
+/sdcard/Pictures/Image number 65.jpg: 1 file pulled. 18.3 MB/s (236226 bytes in 0.012s)
+[ 92%] /sdcard/Pictures/Image number 30.jpg
+[100%] /sdcard/Pictures/Image number 30.jpg
+/sdcard/Pictures/Image number 30.jpg: 1 file pulled. 16.2 MB/s (70528 bytes in 0.004s)
+[ 86%] /sdcard/Pictures/Image number 66.jpg
+[100%] /sdcard/Pictures/Image number 66.jpg
+/sdcard/Pictures/Image number 66.jpg: 1 file pulled. 9.3 MB/s (75486 bytes in 0.008s)
+[ 82%] /sdcard/Pictures/Image number 32.jpg
+[100%] /sdcard/Pictures/Image number 32.jpg
+/sdcard/Pictures/Image number 32.jpg: 1 file pulled. 18.0 MB/s (79856 bytes in 0.004s)
+[100%] /sdcard/Pictures/Image number 23.jpg
+/sdcard/Pictures/Image number 23.jpg: 1 file pulled. 11.2 MB/s (40366 bytes in 0.003s)
+[ 79%] /sdcard/Pictures/Image number 67.jpg
+[100%] /sdcard/Pictures/Image number 67.jpg
+/sdcard/Pictures/Image number 67.jpg: 1 file pulled. 17.5 MB/s (82766 bytes in 0.005s)
+[100%] /sdcard/Pictures/Image number 58.jpg
+/sdcard/Pictures/Image number 58.jpg: 1 file pulled. 13.8 MB/s (52323 bytes in 0.004s)
+[100%] /sdcard/Pictures/Image number 18.jpg
+/sdcard/Pictures/Image number 18.jpg: 1 file pulled. 11.0 MB/s (51221 bytes in 0.004s)
+[ 99%] /sdcard/Pictures/Image number 46.jpg
+[100%] /sdcard/Pictures/Image number 46.jpg
+/sdcard/Pictures/Image number 46.jpg: 1 file pulled. 14.9 MB/s (66135 bytes in 0.004s)
+[ 80%] /sdcard/Pictures/Image number 31.jpg
+[100%] /sdcard/Pictures/Image number 31.jpg
+/sdcard/Pictures/Image number 31.jpg: 1 file pulled. 15.2 MB/s (81320 bytes in 0.005s)
+[ 93%] /sdcard/Pictures/Image number 35.jpg
+[100%] /sdcard/Pictures/Image number 35.jpg
+/sdcard/Pictures/Image number 35.jpg: 1 file pulled. 16.0 MB/s (70457 bytes in 0.004s)
+[ 38%] /sdcard/Pictures/Image number 05.jpg
+[ 76%] /sdcard/Pictures/Image number 05.jpg
+[100%] /sdcard/Pictures/Image number 05.jpg
+/sdcard/Pictures/Image number 05.jpg: 1 file pulled. 22.8 MB/s (170296 bytes in 0.007s)
+[ 78%] /sdcard/Pictures/Image number 10.jpg
+[100%] /sdcard/Pictures/Image number 10.jpg
+/sdcard/Pictures/Image number 10.jpg: 1 file pulled. 16.1 MB/s (83233 bytes in 0.005s)
+[100%] /sdcard/Pictures/Image number 63.jpg
+/sdcard/Pictures/Image number 63.jpg: 1 file pulled. 19.4 MB/s (63115 bytes in 0.003s)
+[ 98%] /sdcard/Pictures/Image number 03.jpg
+[100%] /sdcard/Pictures/Image number 03.jpg
+/sdcard/Pictures/Image number 03.jpg: 1 file pulled. 16.0 MB/s (66845 bytes in 0.004s)
+[ 94%] /sdcard/Pictures/Image number 62.jpg
+[100%] /sdcard/Pictures/Image number 62.jpg
+/sdcard/Pictures/Image number 62.jpg: 1 file pulled. 14.7 MB/s (69192 bytes in 0.004s)
+[100%] /sdcard/Pictures/Image number 25.jpg
+/sdcard/Pictures/Image number 25.jpg: 1 file pulled. 11.9 MB/s (44263 bytes in 0.004s)
+[ 71%] /sdcard/Pictures/Image number 07.jpg
+[100%] /sdcard/Pictures/Image number 07.jpg
+/sdcard/Pictures/Image number 07.jpg: 1 file pulled. 19.1 MB/s (91721 bytes in 0.005s)
+[100%] /sdcard/Pictures/Image number 55.jpg
+/sdcard/Pictures/Image number 55.jpg: 1 file pulled. 14.0 MB/s (53268 bytes in 0.004s)
+[ 88%] /sdcard/Pictures/Image number 19.jpg
+[100%] /sdcard/Pictures/Image number 19.jpg
+/sdcard/Pictures/Image number 19.jpg: 1 file pulled. 18.2 MB/s (74178 bytes in 0.004s)
+[ 76%] /sdcard/Pictures/Image number 38.jpg
+[100%] /sdcard/Pictures/Image number 38.jpg
+/sdcard/Pictures/Image number 38.jpg: 1 file pulled. 17.4 MB/s (86138 bytes in 0.005s)
+[ 87%] /sdcard/Pictures/Image number 16.jpg
+[100%] /sdcard/Pictures/Image number 16.jpg
+/sdcard/Pictures/Image number 16.jpg: 1 file pulled. 15.3 MB/s (75310 bytes in 0.005s)
+[ 34%] /sdcard/Pictures/Image number 02.jpg
+[ 68%] /sdcard/Pictures/Image number 02.jpg
+[100%] /sdcard/Pictures/Image number 02.jpg
+/sdcard/Pictures/Image number 02.jpg: 1 file pulled. 20.3 MB/s (190703 bytes in 0.009s)
+[100%] /sdcard/Pictures/Image number 47.jpg
+/sdcard/Pictures/Image number 47.jpg: 1 file pulled. 13.0 MB/s (46822 bytes in 0.003s)
+[ 45%] /sdcard/Pictures/Image number 61.jpg
+[ 90%] /sdcard/Pictures/Image number 61.jpg
+[100%] /sdcard/Pictures/Image number 61.jpg
+/sdcard/Pictures/Image number 61.jpg: 1 file pulled. 21.7 MB/s (144264 bytes in 0.006s)
+[ 81%] /sdcard/Pictures/Image number 56.jpg
+[100%] /sdcard/Pictures/Image number 56.jpg
+/sdcard/Pictures/Image number 56.jpg: 1 file pulled. 17.0 MB/s (80508 bytes in 0.005s)
+[ 52%] /sdcard/Pictures/Image number 33.jpg
+[100%] /sdcard/Pictures/Image number 33.jpg
+/sdcard/Pictures/Image number 33.jpg: 1 file pulled. 23.0 MB/s (125851 bytes in 0.005s)
+[ 66%] /sdcard/Pictures/Image number 29.jpg
+[100%] /sdcard/Pictures/Image number 29.jpg
+/sdcard/Pictures/Image number 29.jpg: 1 file pulled. 20.8 MB/s (98969 bytes in 0.005s)
+[ 85%] /sdcard/Pictures/Image number 12.jpg
+[100%] /sdcard/Pictures/Image number 12.jpg
+/sdcard/Pictures/Image number 12.jpg: 1 file pulled. 16.0 MB/s (76375 bytes in 0.005s)
+[ 36%] /sdcard/Pictures/Image number 45.jpg
+[ 72%] /sdcard/Pictures/Image number 45.jpg
+[100%] /sdcard/Pictures/Image number 45.jpg
+/sdcard/Pictures/Image number 45.jpg: 1 file pulled. 23.2 MB/s (180229 bytes in 0.007s)
+[ 37%] /sdcard/Pictures/Image number 53.jpg
+[ 74%] /sdcard/Pictures/Image number 53.jpg
+[100%] /sdcard/Pictures/Image number 53.jpg
+/sdcard/Pictures/Image number 53.jpg: 1 file pulled. 22.5 MB/s (175212 bytes in 0.007s)
+[ 91%] /sdcard/Pictures/Image number 28.jpg
+[100%] /sdcard/Pictures/Image number 28.jpg
+/sdcard/Pictures/Image number 28.jpg: 1 file pulled. 17.2 MB/s (71708 bytes in 0.004s)
+[100%] /sdcard/Pictures/Image number 41.jpg
+/sdcard/Pictures/Image number 41.jpg: 1 file pulled. 11.7 MB/s (39668 bytes in 0.003s)
+[100%] /sdcard/Pictures/Image number 52.jpg
+/sdcard/Pictures/Image number 52.jpg: 1 file pulled. 12.3 MB/s (47932 bytes in 0.004s)
+[ 80%] /sdcard/Pictures/Image number 24.jpg
+[100%] /sdcard/Pictures/Image number 24.jpg
+/sdcard/Pictures/Image number 24.jpg: 1 file pulled. 17.6 MB/s (81472 bytes in 0.004s)
+[ 30%] /sdcard/Pictures/Image number 64.jpg
+[ 61%] /sdcard/Pictures/Image number 64.jpg
+[ 91%] /sdcard/Pictures/Image number 64.jpg
+[100%] /sdcard/Pictures/Image number 64.jpg
+/sdcard/Pictures/Image number 64.jpg: 1 file pulled. 21.4 MB/s (214153 bytes in 0.010s)
+[100%] /sdcard/Pictures/Image number 40.jpg
+/sdcard/Pictures/Image number 40.jpg: 1 file pulled. 17.1 MB/s (61316 bytes in 0.003s)
+
+=== ANALYSIS LOG ===
+                     Outguess  Steghide   nsF5  J-UNIWARD *
+-----------------------------------------------------------
+Image number 10.jpg    [1.0]     0.0      0.2     [1.0]  
+Image number 16.jpg    [1.0]     0.0      0.3     [1.0]  
+* Probability of being stego using the indicated steganographic method.
