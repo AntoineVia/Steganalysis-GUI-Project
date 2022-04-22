@@ -43,7 +43,9 @@ class App(QMainWindow):
 
         # Removes any previously imported image folders from the imports directory
         imports = 'imports'
-        if len(os.listdir(imports)) != 0:
+        if not os.path.isdir(imports):
+            os.makedirs(imports)
+        elif len(os.listdir(imports)) != 0:
             for directory in os.listdir(imports):
                 rmtree('/'.join([os.getcwd(), imports, directory]))
 
